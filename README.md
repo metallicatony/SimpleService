@@ -3,7 +3,7 @@ SimpleService is a spring boot application using which the following objectives 
 1) How to build and deploy a cloud-native app in Pivotal Cloud Foundry (PaaS)
 2) How to host a custom service (oracle) in Amazon AWS Cloud (IaaS)
 3) How to create a CUPS service in PCF and deliver service credentials
-4) How to make a PCF app to talk to AWS hosted service
+4) How to make a PCF app to integrate with AWS hosted service
 
 
 ### Step 1
