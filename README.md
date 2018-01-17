@@ -5,6 +5,7 @@ SimpleService is a spring boot application using which the following objectives 
 3) How to create a CUPS service in PCF and deliver service credentials
 4) How to make a PCF app to integrate with AWS hosted service
 
+Blog hosted at: http://metallicatony.blogspot.com/2018/01/spring-boot-application-hosted-in.html
 
 ### Step 1
 Create a AWS free tier account and install a db.t2.micro oracle database standard edition instance that comes as part of free tier. Setup the security group rules in such a way that it allows inbound and outbound connections from outside world.
