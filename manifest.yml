@@ -2,3 +2,5 @@ name: SimpleServiceApp
 path: target/simpleservice-1.0.0.jar
 buildpack: https://github.com/cloudfoundry/java-buildpack.git
 memory: 700M
+services:
+ - oracle-aws
